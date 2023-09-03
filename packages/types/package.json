@@ -1,0 +1,16 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "description": "types for the entire project",
+  "main": "./src/index.js",
+  "types": "./src/index.js",
+  "author": "Ashwin Chandran",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "type-check": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
